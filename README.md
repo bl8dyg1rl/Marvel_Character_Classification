@@ -47,7 +47,7 @@ Prediction on New Images
 
 ## 📂 Dataset
 
-Since no suitable public dataset was available for this task, a custom dataset was created from scratch.
+Since no suitable public dataset was available for this task, a custom dataset was created from scratch (test.py file).
 
 The dataset creation process consisted of:
 
