@@ -189,12 +189,6 @@ Clone the repository
 git clone https://github.com/yourusername/Marvel-Character-Classification.git
 ```
 
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
 Configure your Kaggle API credentials
 
 ```
